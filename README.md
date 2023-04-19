@@ -9,3 +9,6 @@ There will be an SSD1306 screen that shows the hashrate, difficulty, and tempera
 An app will be available that uses Bluetooth connectivity for a more secure and efficient experience. It will allow you to monitor and provide energy consumption and cost-tracking features and will make the device more user-friendly and much more.
 
 Efforts are still underway to improve the device's security while mining, optimize the power consumption, and make it compatible with solar panels. The chips are going to be overclocked to the maximum safe level, and efforts are being made to make it cost less than $250, making it the most affordable miner in the world with such power and efficiency. Additionally, efforts are being made to make the device more portable while still generating minimal heat.
+
+
+Credit to skot and his bitemax board: https://github.com/skot/bitaxe

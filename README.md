@@ -10,7 +10,7 @@ The HexaGlow-Neon-miner is a fully open source hardware Crypto ASIC miner curren
 -Versatile: solo/pool mining, autotune power/heat/efficiency.
 -Open Source: All design files are provided.
 
-#Features
+# Features
 
 -ESP32-S3-WROOM-1 wifi microcontroller on board.
 -TI TPS40305 buck regulator steps down the 5V input to power the BM1397 chips.
@@ -18,7 +18,7 @@ The HexaGlow-Neon-miner is a fully open source hardware Crypto ASIC miner curren
 -TI INA260 power meter measures the input voltage and current of the miner for monitoring the electricity usage.
 -Microchip EMC2101 measures the BM1397's internal diode temperature and tunes the fans speed for max powwer and noise reduction.
 
-#Status
+# Status
 
 -The hardware is under development.
 -The Neon Miner firmware isn't being developed yet.

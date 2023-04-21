@@ -1,6 +1,6 @@
-# HexaGlow Neon miner
+# Hexaminer
 
-The HexaGlow-Neon-miner is a fully open source hardware Crypto ASIC miner currently under development.
+The Hexaminer is a fully open source hardware Crypto ASIC miner currently under development.
 
 # Goals
 

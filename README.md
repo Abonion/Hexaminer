@@ -37,4 +37,4 @@ direct mining to youre pc over usb or standalone to a pc
 
 If anybody wants to contribute you can message me on discord my id is: Abonion#7517
 
-Credit to Skot for inspiring the project's idea and providing some inforamtion: https://github.com/skot
+Credit to Skot for inspiring the project's idea: https://github.com/skot

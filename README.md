@@ -26,11 +26,15 @@ direct mining to youre pc over usb or standalone to a pc
 
 -Microchip EMC2101 measures the BM1397's internal diode temperature and tunes the fans speed for max powwer and noise reduction.
 
+-SSD1306 Display for Hashrate, Status, Power consumption, etc.
+
 # Status
 
 -The hardware is under development.
 -The Neon Miner firmware isn't being developed yet.
 
 
+
+If anybody wants to contribute you can message me on discord my id is: Abonion#7517
 
 Credit to Skot for inspiring the project's idea and providing some inforamtion: https://github.com/skot

@@ -4,7 +4,7 @@ The HexaGlow-Neon-miner is a fully open source hardware Crypto ASIC miner curren
 
 # Goals
 
--Standalone mining direclty to youre pool or over usb to a Pc (CGMiner).
+direct mining to youre pc over usb or standalone to a pc
 
 -Embedded: low cost, high availability, high reliability, low electricity consumption, high mining power, max profits
 

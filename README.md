@@ -31,6 +31,7 @@ direct mining to youre pc over usb or standalone to a pc
 # Status
 
 -The hardware is under development.
+
 -The Neon Miner firmware isn't being developed yet.
 
 

@@ -1,6 +1,6 @@
-# Hexaminer
+# Octaminer
 
-The Hexaminer is a fully open source hardware Crypto ASIC miner currently under development.
+The Octaminer is a fully open source hardware Crypto ASIC miner currently under development.
 
 # Goals
 
